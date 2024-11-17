@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraffa13&label=Profile%20views&color=0e75b6&style=flat" alt="saraffa13" /> </p>
 
-- 🌱 I have over 1+ years of experience in Software Engineering with hands of experience in technologies like Reactjs, Nextjs, Nodejs and MongoDb. **
+- 🌱 I have over 1+ years of experience in Software Engineering with hands of experience in technologies like Reactjs, Nextjs, Expressjs, Nodejs and MongoDb. **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-116e1.web.app/home](https://portfolio-116e1.web.app/home)
 

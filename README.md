@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" ></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saraffa13&label=Profile%20views&color=0e75b6&style=flat" alt="saraffa13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saraffa13&label=Profile%20views&color=0e75b6&style=flat" alt="saraffa13 " /> </p>
 
 - 🌱 I have over 1+ years of experience in Software Engineering with hands of experience in technologies like Reactjs, Nextjs, Expressjs, Nodejs and MongoDb. **
 

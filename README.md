@@ -9,7 +9,7 @@
 
 - 🌱 I have over 1+ years of experience in Software Engineering with hands of experience in technologies like Reactjs, Nextjs, Expressjs, Nodejs and MongoDb. **
 
-- 👨‍💻 All of my projects are available at [https://portfolio-116e1.web.app/home](https://portfolio-116e1.web.app/home)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-beta-eight-81.vercel.app/](portfolio)
 
 - 💬 Ask me about **React, Node, MongoDb, C++**
 
